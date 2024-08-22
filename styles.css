@@ -27,7 +27,7 @@ body {
     font-size: 14px;
 }
 
-.circle-1 {
+#circle-1 {
     background-color: #3498db;
     color: white;
 }
